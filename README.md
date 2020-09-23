@@ -1,4 +1,6 @@
 # ATM Example
 
-Dependency injection with a layer of indirection.
+Dependency injection with Spring IoC (annotation)
+
+Name: Sukrita Kittipitayakorn ID: 6110546062
 
